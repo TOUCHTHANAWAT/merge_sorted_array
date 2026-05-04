@@ -7,10 +7,10 @@ Constraints:
 
 # Project Initialization (How this project was created)
 This section shows the commands used to set up the project from scratch:
-`npm init -y`
-`npm install --save-dev typescript jest ts-jest @types/jest ts-node`
-`npx tsc --init`
-`npx ts-jest config:init`
+npm init -y
+npm install --save-dev typescript jest ts-jest @types/jest ts-node
+npx tsc --init
+npx ts-jest config:init
 
 # How to Run the Project
 ## Install dependencies
