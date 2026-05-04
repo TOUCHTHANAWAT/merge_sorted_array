@@ -20,7 +20,7 @@ describe("merge()", () => {
     ).toEqual([1,2,3]);
   });
 
-  test("one empty middle", () => {
+  test("one empty", () => {
     expect(
       merge([], [3,2,1], [4,5,6])
     ).toEqual([1,2,3,4,5,6]);

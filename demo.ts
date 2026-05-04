@@ -11,7 +11,7 @@ runCase("all empty", [],[],[]);
 
 runCase("two empty one filled", [1,2,3],[],[]);
 
-runCase("one empty middle", [],[3,2,1],[4,5,6]);
+runCase("one empty", [],[3,2,1],[4,5,6]);
 
 runCase("duplicates across arrays", [1,2],[3,2],[2,4]);
 
