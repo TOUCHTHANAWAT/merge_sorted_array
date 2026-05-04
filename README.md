@@ -6,10 +6,10 @@ Constraints:
 - `collection_3` is sorted in ascending order (min → max)
 
 # Project Initialization (How this project was created)
-This section shows the commands used to set up the project from scratch:
-npm init -y
-npm install --save-dev typescript jest ts-jest @types/jest ts-node
-npx tsc --init
+This section shows the commands used to set up the project from scratch:<br>
+npm init -y<br>
+npm install --save-dev typescript jest ts-jest @types/jest ts-node<br>
+npx tsc --init<br>
 npx ts-jest config:init
 
 # How to Run the Project
