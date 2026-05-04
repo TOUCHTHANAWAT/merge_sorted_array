@@ -21,3 +21,21 @@ npm test
 
 ## Run Demo
 npm run demo
+
+# Explain further
+## Unit Test
+
+Unit tests are written using Jest to verify that the merge function works correctly.
+
+They help to:
+- Validate correctness of the algorithm
+- Cover edge cases (empty arrays, duplicates, negative numbers)
+- Prevent regressions when code is modified
+
+## Demo
+
+The demo file (`demo.ts`) is used to run the function manually and display output in the console.
+
+It helps developers:
+- Quickly see real output
+- Understand how the function behaves at runtime
